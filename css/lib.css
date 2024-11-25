@@ -1,0 +1,38 @@
+
+/* CSS Document */
+.border-grid {
+  border-right: 1px solid rgba(192,166,95,1.00) ;
+  border-bottom: 1px solid rgba(192,165,95,1.00);
+}
+.margin-port
+{
+	margin-top: 20px
+	
+}
+.image-back
+{
+background-image: url("images/73d53a4544535719da92cc6ba2722332.gif");
+background-repeat: repeat;
+background-size: cover;
+height: 1000px;
+}
+.margin-cen
+{ 
+margin-top:40px;
+margin-bottom:40px}
+.image-sai
+{
+	width: 100%;
+	height: auto; 
+}
+.margin-l
+{
+	margin-left: 20px
+}
+.img-last
+{
+background-image: url("images/INTRO.png");
+background-repeat: repeat;
+background-size: cover;
+height: 1000px;	
+}
